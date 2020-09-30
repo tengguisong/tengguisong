@@ -1,4 +1,5 @@
-### Hi there 👋
+### 这是一个小白项目
+- 🔭 I’m currently working on ...
 
 <!--
 **tengguisong/tengguisong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
